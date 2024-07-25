@@ -26,10 +26,6 @@
         "dataset_id": "YorickHe/CoT",
         "tags": ["chat", "general"]
     },
-    "psy-qa": {
-        "dataset_id": "lzjune0315/psychological-QA-dataset",
-        "tags": ["QA", "psychological"]
-    },
     "instinwild": {
         "dataset_id": "wyj123456/instinwild",
         "subsets": ["default", "subset"],
@@ -156,6 +152,18 @@
             "error_strategy": "delete"
         },
         "tags": ["chat", "play-ground"]
+    },
+    "psy-qa": {
+        "dataset_id": "lzjune0315/psychological-QA-dataset",
+        "conversations": {
+            "user_role": "user",
+            "assistant_role": "assistant",
+            "conversations_key": "conversations",
+            "from_key": "from",
+            "value_key": "value",
+            "error_strategy": "delete"
+        },
+        "tags": ["chat", "psy"]
     },
     "tagengo-gpt4": {
         "dataset_id": "swift/tagengo-gpt4",
