@@ -153,8 +153,8 @@
         },
         "tags": ["chat", "play-ground"]
     },
-    "psy-QA": {
-        "dataset_id": "lzjune0315/psy-QA",
+    "1wne": {
+        "dataset_id": "lzjune0315/1wne",
         "conversations": {
             "user_role": "user",
             "assistant_role": "assistant",
