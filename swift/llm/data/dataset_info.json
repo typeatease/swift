@@ -153,8 +153,8 @@
         },
         "tags": ["chat", "play-ground"]
     },
-    "psy-qa": {
-        "dataset_id": "lzjune0315/psychological-QA-dataset",
+    "psy-QA": {
+        "dataset_id": "lzjune0315/psy-QA",
         "conversations": {
             "user_role": "user",
             "assistant_role": "assistant",
