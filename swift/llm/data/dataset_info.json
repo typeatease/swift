@@ -743,6 +743,11 @@
         "remove_useless_columns": false,
         "tags": ["chat", "self-cognition", "🔥"]
     },
+    "my-self-cognition": {
+        "dataset_id": "lzjune0315/my-self-cognition",
+        "remove_useless_columns": false,
+        "tags": ["chat", "my-self-cognition", "🔥"]
+    },
     "swift-mix": {
         "dataset_id": "swift/swift-sft-mixture",
         "subsets": ["sharegpt", "firefly", "codefuse", "metamathqa"],
