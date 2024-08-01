@@ -153,6 +153,18 @@
         },
         "tags": ["chat", "play-ground"]
     },
+    "psy": {
+        "dataset_id": "lzjune0315/psy",
+        "conversations": {
+            "user_role": "user",
+            "assistant_role": "assistant",
+            "conversations_key": "conversations",
+            "from_key": "from",
+            "value_key": "value",
+            "error_strategy": "delete"
+        },
+        "tags": ["chat", "play-ground"]
+    },
     "1wne": {
         "dataset_id": "lzjune0315/1wne",
         "conversations": {
