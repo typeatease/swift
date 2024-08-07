@@ -153,6 +153,18 @@
         },
         "tags": ["chat", "play-ground"]
     },
+    "party-mix": {
+        "dataset_id": "lzjune0315/party-mix",
+        "conversations": {
+            "user_role": "user",
+            "assistant_role": "assistant",
+            "conversations_key": "conversations",
+            "from_key": "from",
+            "value_key": "value",
+            "error_strategy": "delete"
+        },
+        "tags": ["chat", "play-ground"]
+    },
     "Party-knowledge": {
         "dataset_id": "lzjune0315/Party-knowledge",
         "conversations": {
